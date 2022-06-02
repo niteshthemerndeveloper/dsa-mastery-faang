@@ -15,4 +15,4 @@ const swapValues = (arr, idx1, idx2) => {
   [arr[idx1], arr[idx2]] = [arr[idx2], arr[idx1]];
 }
 
-console.log(bubbleSort([249, 121, 1, -64, 2016]));
+console.log(bubbleSort([249, 121, 8, -64, 2016]));
